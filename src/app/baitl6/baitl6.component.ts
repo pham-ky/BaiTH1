@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class Baitl6Component implements OnInit {
 
   constructor() { }
-  s = [-1,-5,3,4,8,3,-43,10,25,55];
+  s = [-6,-5,15,35,-95,48,-36,15,71,-63,26];
   tong=0;
  ngOnInit(): void {
    for(let i=0; i<this.s.length;i++)
