@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.css",  
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BaiTH1"
+    }
+  },
+  "defaultProject": "BaiTH1",
+  "cli": {
+    "analytics": "63838264-a55c-43ff-bb1b-c8b7187d60e2"
+  }
 }
